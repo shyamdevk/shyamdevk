@@ -3,10 +3,12 @@
 
 <h1 align="center">Hi 👋, I'm Shyamdev K</h1>
 <h3 align="center">🚀 Cloud & DevOps Enthusiast | BTech CSE Graduate | Open Source Learner</h3>
+
 <!-- Short Intro Video (as GIF) -->
 <p align="center">
-  <img src="https://github.com/shyamdevk/shyamdevk/blob/main/blackkhole.gif" alt="Intro Video" width="600"/>
+  <img src="https://github.com/shyamdevk/shyamdevk/blob/main/blackhole.gif" alt="Intro Video" width="600"/>
 </p>
+
 ---
 
 ### 💫 About Me:
