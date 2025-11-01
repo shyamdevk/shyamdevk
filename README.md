@@ -6,7 +6,7 @@
 
 <!-- Short Intro Video (as GIF) -->
 <p align="center">
-  <img src="https://github.com/shyamdevk/shyamdevk/blob/main/blackhole.gif" alt="Intro Video" width="600"/>
+  <img src="https://github.com/shyamdevk/shyamdevk/blob/main/blackkhole.gif" alt="Intro Video" width="600"/>
 </p>
 
 ---
