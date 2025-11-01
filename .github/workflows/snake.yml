@@ -78,8 +78,6 @@ jobs:
 
 
 
-      # Step 3: Deploy the generated files to the 'output' branch
-
       - name: Deploy to Output Branch
 
         uses: peaceiris/actions-gh-pages@v3
