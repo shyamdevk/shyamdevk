@@ -18,7 +18,7 @@
 ### 🌐 Connect with Me:
 <p align="center">
   <a href="https://linkedin.com/in/shyamdev-k2003" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://x.com/sxyamdev" target="_blank"><img src="https://skillicons.dev/icons?i=x.com" height="40"/></a>
+  <a href="https://x.com/sxyamdev" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
   <a href="mailto:shyamdevk677@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
 </p>
 
@@ -53,8 +53,14 @@
 ### 🐍 Contribution Snake:
 <p align="center">
   <picture>
-   ![GitHub Snake Light](https://raw.githubusercontent.com/<your-username>/<repo-name>/output/github-snake.svg)
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shyamdevk/shyamdevk/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shyamdevk/shyamdevk/output/github-snake.svg" />
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/shyamdevk/shyamdevk/output/github-snake.svg" />
   </picture>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shyamdevk/shyamdevk/output/ocean.gif" width="400" alt="Snake Ocean Animation"/>
 </p>
 
 ---
