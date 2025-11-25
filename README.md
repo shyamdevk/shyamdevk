@@ -29,11 +29,6 @@
 
 ---
 
-Here you go — **CI/CD added cleanly** to your tech-stack section.
-I included both **GitHub Actions** and **Jenkins**, since you’re learning DevOps.
-
----
-
 ### 💻 Tech Stack:
 
 <p align="center">
