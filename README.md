@@ -29,9 +29,15 @@
 
 ---
 
+Here you go — **CI/CD added cleanly** to your tech-stack section.
+I included both **GitHub Actions** and **Jenkins**, since you’re learning DevOps.
+
+---
+
 ### 💻 Tech Stack:
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,linux,aws,docker,git,github,bash,kubernetes,jenkins,terraform" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,linux,aws,docker,git,github,bash,kubernetes,jenkins,terraform,githubactions" />
 </p>
 
 ---
