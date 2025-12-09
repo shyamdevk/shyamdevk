@@ -1,7 +1,12 @@
 <!-- Profile Banner -->
 ![Header](https://github.com/shyamdevk/shyamdevk/blob/main/assets/banner.gif)
 
-<h1 align="center">Hi 👋, I'm Shyamdev K</h1>
+### <p align="center">Hi there 👋, I'm Shyamdev</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=3EB3F7&center=true&vCenter=true&width=480&lines=AWS+DevOps+Engineer+%7C+Cloud+Enthusiast;Linux+%7C+Terraform+%7C+Docker+%7C+CI%2FCD;Always+learning+new+things!"/>
+</p>
+
 <h3 align="center">🚀 Cloud & DevOps Enthusiast | BTech CSE Graduate | Open Source Learner</h3>
 
 <!-- Short Intro Video (as GIF) -->
