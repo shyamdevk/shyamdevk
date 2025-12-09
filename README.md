@@ -39,22 +39,19 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shyamdevk&show_icons=true&theme=tokyonight" alt="GitHub stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shyamdevk&theme=tokyonight" alt="GitHub streak" width="48%"/>
+  <img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=shyamdevk&show_icons=true&theme=tokyonight" alt="GitHub stats" width="48%"/>
+  <img src="https://streak-stats.demolab.com/?user=shyamdevk&theme=tokyonight" alt="GitHub streak" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamdevk&layout=compact&theme=tokyonight" width="48%">
+  <img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=shyamdevk&layout=compact&theme=tokyonight" width="48%">
 </p>
-
----
 
 ### 🏆 GitHub Trophies:
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shyamdevk&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies"/>
 </p>
 
----
 
 ### 🐍 Contribution Snake:
 <p align="center">
