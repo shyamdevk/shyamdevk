@@ -52,6 +52,17 @@
   <img src="https://img.shields.io/badge/Trophy-Developer-green?style=for-the-badge" />
 </p>
 
+---
+
+---
+
+### 🏅 AWS & Cloud Certifications
+
+<p align="center">
+  <a href="https://www.credly.com/users/shyamdev-k" target="_blank">
+    <img src="https://img.shields.io/badge/Click%20Here%20to%20View%20My%20Credly%20Profile-orange?style=for-the-badge&logo=credly&logoColor=white" />
+  </a>
+</p>
 
 ### 🐍 Contribution Snake:
 <p align="center">
